@@ -1,0 +1,11 @@
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\bin\Debug\p289 - Fingers the Clown.exe.config
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\bin\Debug\p289 - Fingers the Clown.exe
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\bin\Debug\p289 - Fingers the Clown.pdb
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\obj\x86\Debug\p289 - Fingers the Clown.csproj.AssemblyReference.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\obj\x86\Debug\p289 - Fingers the Clown.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\obj\x86\Debug\p289 - Fingers the Clown.csproj.GenerateResource.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\obj\x86\Debug\p289 - Fingers the Clown.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\obj\x86\Debug\p289 - Fingers the Clown.exe
+C:\Users\ivano\Desktop\c--master\Chapter 7\p289 - Fingers the Clown\p289 - Fingers the Clown\obj\x86\Debug\p289 - Fingers the Clown.pdb

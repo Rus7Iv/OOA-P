@@ -1,0 +1,22 @@
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\bin\Debug\p257 - Beehive Management System (part 1).exe.config
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\bin\Debug\p257 - Beehive Management System (part 1).exe
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\bin\Debug\p257 - Beehive Management System (part 1).pdb
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).csproj.AssemblyReference.cache
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).csproj.SuggestedBindingRedirects.cache
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\Beehive_Management_System.Form1.resources
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\Beehive_Management_System.Properties.Resources.resources
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).csproj.GenerateResource.cache
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).csproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).exe
+C:\Users\ivano\Desktop\second-edition-master\Chapter 6\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).pdb
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).csproj.AssemblyReference.cache
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).csproj.SuggestedBindingRedirects.cache
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\Beehive_Management_System.Form1.resources
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\Beehive_Management_System.Properties.Resources.resources
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).csproj.GenerateResource.cache
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).csproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).exe
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\obj\x86\Debug\p257 - Beehive Management System (part 1).pdb
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\bin\Debug\p257 - Beehive Management System (part 1).exe.config
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\bin\Debug\p257 - Beehive Management System (part 1).exe
+C:\Users\ivano\Desktop\p257 - Beehive Management System (part 1)\p257 - Beehive Management System (part 1)\bin\Debug\p257 - Beehive Management System (part 1).pdb

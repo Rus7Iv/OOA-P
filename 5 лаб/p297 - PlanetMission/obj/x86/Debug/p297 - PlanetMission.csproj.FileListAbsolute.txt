@@ -1,0 +1,11 @@
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\bin\Debug\p297 - PlanetMission.exe.config
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\bin\Debug\p297 - PlanetMission.exe
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\bin\Debug\p297 - PlanetMission.pdb
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\obj\x86\Debug\p297 - PlanetMission.csproj.AssemblyReference.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\obj\x86\Debug\p297 - PlanetMission.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\obj\x86\Debug\p297___PlanetMission.Form1.resources
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\obj\x86\Debug\p297___PlanetMission.Properties.Resources.resources
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\obj\x86\Debug\p297 - PlanetMission.csproj.GenerateResource.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\obj\x86\Debug\p297 - PlanetMission.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\obj\x86\Debug\p297 - PlanetMission.exe
+C:\Users\ivano\Desktop\c--master\Chapter 7\p297 - PlanetMission\p297 - PlanetMission\obj\x86\Debug\p297 - PlanetMission.pdb

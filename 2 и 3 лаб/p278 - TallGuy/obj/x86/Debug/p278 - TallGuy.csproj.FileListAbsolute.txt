@@ -1,0 +1,11 @@
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\bin\Debug\p278 - TallGuy.exe.config
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\bin\Debug\p278 - TallGuy.exe
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\bin\Debug\p278 - TallGuy.pdb
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\obj\x86\Debug\p278 - TallGuy.csproj.AssemblyReference.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\obj\x86\Debug\p278 - TallGuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\obj\x86\Debug\p278___TallGuy.Form1.resources
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\obj\x86\Debug\p278___TallGuy.Properties.Resources.resources
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\obj\x86\Debug\p278 - TallGuy.csproj.GenerateResource.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\obj\x86\Debug\p278 - TallGuy.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\obj\x86\Debug\p278 - TallGuy.exe
+C:\Users\ivano\Desktop\c--master\Chapter 7\p278 - TallGuy\p278 - TallGuy\obj\x86\Debug\p278 - TallGuy.pdb

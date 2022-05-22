@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\LogovLab_Tumanov\Lab24_waterpool\obj\Debug\Lab24_waterpool.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\LogovLab_Tumanov\Lab24_waterpool\obj\Debug\Lab24_waterpool.Properties.Resources.resources
+C:\Users\Ivan\source\repos\LogovLab_Tumanov\Lab24_waterpool\obj\Debug\Lab24_waterpool.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\LogovLab_Tumanov\Lab24_waterpool\obj\Debug\Lab24_waterpool.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\LogovLab_Tumanov\Lab24_waterpool\bin\Debug\Lab24_waterpool.exe.config
+C:\Users\Ivan\source\repos\LogovLab_Tumanov\Lab24_waterpool\bin\Debug\Lab24_waterpool.exe
+C:\Users\Ivan\source\repos\LogovLab_Tumanov\Lab24_waterpool\bin\Debug\Lab24_waterpool.pdb
+C:\Users\Ivan\source\repos\LogovLab_Tumanov\Lab24_waterpool\obj\Debug\Lab24_waterpool.exe
+C:\Users\Ivan\source\repos\LogovLab_Tumanov\Lab24_waterpool\obj\Debug\Lab24_waterpool.pdb
